@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="01.ReversedNumbers/01.ReversedNumbers.csproj" />
+  <Project Path="02.CenturiesToMinutes/02.CenturiesToMinutes.csproj" />
+  <Project Path="03.Redecorating/03.Redecorating.csproj" />
+  <Project Path="04.FoodDelivery/04.FoodDelivery.csproj" />
+  <Project Path="05.BasketballEquipment/05.BasketballEquipment.csproj" />
+  <Project Path="06.Aquarium/06.Aquarium.csproj" />
+</Solution>
