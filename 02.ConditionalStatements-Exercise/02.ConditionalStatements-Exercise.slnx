@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="01.NumberType/01.NumberType.csproj" />
+  <Project Path="02.ATM/02.ATM.csproj" />
+  <Project Path="03.BiggestOfFiveNumbers/03.BiggestOfFiveNumbers.csproj" />
+  <Project Path="04.NumberOperations/04.NumberOperations.csproj" />
+  <Project Path="05.VacationExpenses/05.VacationExpenses.csproj" />
+  <Project Path="06.ProductOfThreeNumbers/06.ProductOfThreeNumbers.csproj" />
+  <Project Path="07.WorkingHours/07.WorkingHours.csproj" />
+  <Project Path="08.FruitOrVegetable/08.FruitOrVegetable.csproj" />
+  <Project Path="09.SumSeconds/09.SumSeconds.csproj" />
+  <Project Path="10.SummerOutfit/10.SummerOutfit.csproj" />
+</Solution>
