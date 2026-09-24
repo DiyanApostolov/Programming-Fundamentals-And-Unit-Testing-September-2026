@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="01.PowerOfNumber/01.PowerOfNumber.csproj" />
+  <Project Path="02.MultiplicationTable/02.MultiplicationTable.csproj" />
+  <Project Path="03.BiggestNumber/03.BiggestNumber.csproj" />
+  <Project Path="04.VowelSum/04.VowelSum.csproj" />
+  <Project Path="05.DivisionTo2,3And4/05.DivisionTo2,3And4.csproj" />
+  <Project Path="06.SpecialNumber/06.SpecialNumber.csproj" />
+  <Project Path="07.SpecialBonus/07.SpecialBonus.csproj" />
+  <Project Path="08.AccountBalance/08.AccountBalance.csproj" />
+  <Project Path="09.Demo/09.Demo.csproj" />
+</Solution>
