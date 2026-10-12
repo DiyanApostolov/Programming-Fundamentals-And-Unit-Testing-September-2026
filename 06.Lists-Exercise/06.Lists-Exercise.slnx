@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="01.Train/01.Train.csproj" />
+  <Project Path="02.HouseParty/02.HouseParty.csproj" />
+  <Project Path="03.ListOperations/03.ListOperations.csproj" />
+  <Project Path="04.ListManipulationBasics/04.ListManipulationBasics.csproj" />
+  <Project Path="05.BombNumbers/05.BombNumbers.csproj" />
+</Solution>
