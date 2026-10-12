@@ -21,9 +21,9 @@ while (numbers.Contains(bomb))
     if (endIndex >= numbers.Count)
         endIndex = numbers.Count - 1;
 
-    for (int i = 1; i <= power * + 1; i++)
+    for (int i = startIndex; i <= endIndex; i++)
     {
-        numbers.RemoveAt(startIndex);
+        numbers[i] = 0;
     }
 }
 
